@@ -1,0 +1,18 @@
+.navbar-brand{
+  font-family: 'Patua One', cursive;
+}
+
+.navbar img {
+    max-width: 27px;
+    height: auto;
+}
+
+.navbar{
+  line-height: 1.2;
+}
+
+.jumbotron{
+background-image: url(jumback.png);
+background-size: cover;
+color: white;
+}
